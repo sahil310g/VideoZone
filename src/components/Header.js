@@ -26,7 +26,7 @@ const Header = () => {
                 <DrawerOverlay/>
                 <DrawerContent>
                     <DrawerCloseButton/>
-                    <DrawerHeader>Video Zone</DrawerHeader>
+                    <DrawerHeader >Video Zone</DrawerHeader>
                     <DrawerBody>
 
                         <VStack alignItems={'flex-start'}>

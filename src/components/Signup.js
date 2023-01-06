@@ -7,7 +7,7 @@ const Signup = () => {
         <Container maxW={'container.xl'} h={'100vh'} p={'16'}>
             <form>
                 <VStack alignItems={'stretch'} spacing={'8'} w={['full','96']} m={'auto'} my={'16'}>
-                    <Heading>Video Zone</Heading>
+                    <Heading alignSelf={'center'}>Video Zone</Heading>
                     <Avatar alignSelf={'center'} boxSize={'32'} />
                     <Input placeholder={'Name'} type={'text'} required focusBorderColor={'purple.500'} />
 
